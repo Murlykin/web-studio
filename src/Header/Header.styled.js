@@ -10,7 +10,6 @@ export const Header = styled.div`
   position: relative;
   z-index: +1;
  @media screen and (min-width: 1200px) {
- 
      width: 1040px;
      height: 104px;
      margin: 10px 200px 116px 120px;
